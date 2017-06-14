@@ -1,6 +1,6 @@
 {
   "name": "briz-react-swipe",
-  "version": "5.0.9",
+  "version": "5.0.10",
   "description": "Brad Birdsall's Swipe.js, as a React component",
   "homepage": "https://github.com/springBriz/react-swipe",
   "keywords": [
@@ -18,7 +18,7 @@
     "type": "git",
     "url": "git://github.com/springBriz/react-swipe.git"
   },
-  "main": "index.js",
+  "main": "dist/react-swipe.js",
   "license": "MIT",
   "dependencies": {
     "object-assign": "^4.1.0",
