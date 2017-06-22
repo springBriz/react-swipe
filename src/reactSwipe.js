@@ -60,6 +60,10 @@ class ReactSwipe extends Component {
     this.swipe = void 0;
   }
 
+  setup() {
+    this.swipe.setup();
+  }
+
   next() {
     this.swipe.next();
   }

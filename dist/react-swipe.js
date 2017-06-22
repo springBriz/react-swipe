@@ -110,6 +110,11 @@ return /******/ (function(modules) { // webpackBootstrap
 	      this.swipe = void 0;
 	    }
 	  }, {
+	    key: 'setup',
+	    value: function setup() {
+	      this.swipe.setup();
+	    }
+	  }, {
 	    key: 'next',
 	    value: function next() {
 	      this.swipe.next();
